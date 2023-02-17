@@ -20,7 +20,7 @@
 User-agent: *
 Disallow: /*__*
 
-Sitemap: https://utaramas.github.io/marathonmondial/sitemap.xml
+Sitemap: https://marathonmondial.netlify.app/sitemap.xml
 
 
 
